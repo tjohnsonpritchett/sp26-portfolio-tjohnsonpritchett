@@ -2,10 +2,10 @@
 layout: project
 title: Portfolio
 description: OLHW 5
-image: /assets/images/nutracker.png
-image: /assets/images/nutracker calcs.png
-image: /assets/images/nutracker FBD.png
-image: /assets/images/nutracker diagram.png
+image: /assets/images/nutcracker.png
+image: /assets/images/nutcracker calcs.png
+image: /assets/images/nutcracker FBD.png
+image: /assets/images/nutcracker diagram.png
 
 ---
 
